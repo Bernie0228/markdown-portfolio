@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+ A list of my favotite things :heart:	:sparkles::tada:
+- 🥑
